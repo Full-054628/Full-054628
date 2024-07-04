@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 
 - 🧑‍💻 I'm a backend engineer.
 - 🌱 I’m currently learning go!
-- 📫 How to reach me: [Twitter - @username](https://twitter.com/username)
 <br>
 
 
