@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
 - 🧑‍💻 I’m a second-year engineer.
-- 🌱 I’m currently learning Java!
+- 🌱 I’m currently learning SpringBoot, SpringSecurity, and Docker!
 <br>
 
 
