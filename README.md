@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
 - 🧑‍💻 I’m a second-year engineer.
-- 🌱 I’m currently learning SpringBoot, SpringSecurity, and Docker!
+- 🌱 I’m currently learning TypeScript, Docker and GoogleCloud!
 <br>
 
 
@@ -32,9 +32,9 @@ Here are some ideas to get you started:
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,java,python,unity,postman,mysql,gradle,git,idea,docker,aws" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,java,spring,python,unity,postman,mysql,gradle,git,idea,docker,gcp" />
 <br>
-<!--<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,react,figma,java,swift,python,unity,postman,mysql,gradle,git,idea,fastapi,docker,aws" /> -->
+<!--<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,figma,java,swift,python,unity,postman,mysql,gradle,git,idea,fastapi,docker,gcp" /> -->
 
 
 <!-- 4. GitHub usernameを変更, 2箇所 -->
