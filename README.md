@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,nodejs,react,java,spring,python,postman,mysql,gradle,git,github,githubactions,idea,docker,gcp" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,nodejs,react,java,spring,python,postman,mysql,gradle,git,github,githubactions,idea,visualstudio,docker,gcp" />
 <br>
 <!--<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,figma,java,swift,python,unity,postman,mysql,gradle,git,github,githubactions,idea,visualstudio,fastapi,docker,gcp" /> -->
 
